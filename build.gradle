@@ -1,0 +1,5 @@
+// Top-level build file - plugin versions yahan pin hain.
+// AGP 8.7.0 + Gradle 8.9 (wrapper) + JDK 17: proven combination.
+plugins {
+    id 'com.android.application' version '8.7.0' apply false
+}
